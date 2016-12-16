@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="api_key">8009ae9da9cdf8ae70b36e5530badc27</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="menu_item_popular">Most Popular</string>
+    <string name="menu_item_topRated">Top Rated</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="menu_view_title">Sort by</string>
+    <string name="pref_sort_title">Sort by</string>
+    <string name="pref_sort_key">sort</string>
+    <string name="pref_sort_default">popular</string>
+    <string name="pref_sort_label_popular">popular</string>
+    <string name="pref_sort_label_topRated">top_rated</string>
+    <string name="pref_sort_entry_popular">Popular</string>
+    <string name="pref_sort_entry_topRated">Top Rated</string>
+    <string name="detail_description">Description</string>
+    <string name="release_date">Release Date</string>
+    <string name="rating">Rating</string>
+    <string name="detail_review">Review</string>
+    <string name="detail_trailer">Trailers</string>
+    <string name="pref_sort_label_favourites">favourites</string>
+    <string name="pref_sort_entry_favourites">Favourites</string>
+    <string name="addFav">Add to Favourites</string>
+</resources>
